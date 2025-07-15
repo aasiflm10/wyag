@@ -1,0 +1,4 @@
+# requirements.txt
+
+# No external packages required.
+# This project only uses Python 3.10+ standard library.
